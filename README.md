@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Banner.jpg" alt="Adrian Cyberpunk Banner" width="100%">
+</p>
+
 # ¡Hola! Soy Adrian 👋
 
 ### 🚀 Full-Stack Developer en formación | Hardware & Networks | Quereinsteiger

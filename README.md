@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Banner.jpg" alt="Adrian Banner" width="100%">
+  <img src="Banner.png" alt="Adrian Banner" width="100%">
 </p>
 
 # ¡Hola! Soy Adrian 👋

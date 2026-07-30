@@ -37,4 +37,4 @@ Desde siempre me ha apasionado la tecnología e informática. Aunque mi camino p
 ---
 
 ### 📫 Contacto
-[![LinkedIn] https://www.linkedin.com/in/adrian-sanchez92/
+[[LinkedIn] https://www.linkedin.com/in/adrian-sanchez92/

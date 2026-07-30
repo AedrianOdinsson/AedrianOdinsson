@@ -10,7 +10,7 @@ Desde siempre me ha apasionado la tecnología e informática. Aunque mi camino p
 
 ---
 
-### 🛠️ Mi Stack Tecnológico (En aprendizaje activo)
+### 🛠️ Mi Stack Tecnológico
 
 **Frontend:**
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
